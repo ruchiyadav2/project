@@ -39,7 +39,7 @@ Built using Java Swing with the following interface screens:
 - **Database Name:** `prepare`  
 - **Tables Used:**
   - `events` — Main event records
-  - `event_user` — (Optional) registered users
+  - `event_user` — registered users
   - `backup_events` — Used by triggers to store insert/update/delete logs
 
 ---
